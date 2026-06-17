@@ -1,6 +1,6 @@
 <h2>👨🏻‍💻 About Me</h2>
 
-Hi, I’m Muhammet Selman Sönmez.
+Hi, I’m Selman Sonmez.
 
 I’m a Digital Game Design student with a strong interest in artificial intelligence, software development, and AI-assisted production workflows. Over time, my curiosity about AI has turned into a focused goal: becoming an AI Engineer and building systems that combine creativity, technology, and automation.
 
